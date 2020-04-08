@@ -1,0 +1,26 @@
+body{
+	background-color:lightyellow;
+}
+h1{
+		   	color: purple; font-size: 90px;
+		   }
+
+            #first{
+	      font-size: 150px;
+           }
+
+		     .small{
+	       	font-size: 12px;
+	       }  
+
+	       h2{
+		    color: darkgreen;text-decoration: underline;font-size: 22px;
+	       }	
+
+	       span{
+	       	font-style: italic;
+	       }
+
+	       h2 span{
+	       	text-decoration: line-through;
+	       }
