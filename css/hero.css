@@ -1,0 +1,66 @@
+html, body{
+	font-family: 'Times New Roman', Times, serif;
+	padding:  0;
+}
+
+header{
+	background-color: #bb99ff;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 176px;
+    width: 300px;
+    border: 24px solid #000000;
+}
+
+.conetnt{
+	max-width: 900px;
+	margin: 0 auto; padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%; display: block; margin: 0 auto;
+}
+p.caption{
+	text-align: center;
+	font-size: 16px;
+	color: darkblue;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: purple;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #e6ccff
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 10px;
+}
+/*<header>
+                 <img src="img/profile.jpg">
+		       <h1> Kim Seokjin </h1>
+	     </header>*/
