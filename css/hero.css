@@ -12,12 +12,14 @@ header{
 h1{
 	font-size: 90px;
 	color: white;
+	text-shadow: 0 4px 20px; text-shadow color: black;
 }
 
 header img{
 	border-radius: 176px;
     width: 300px;
     border: 24px solid #000000;
+    box-shadow: 0 10px 20px; text-shadow color: black;
 }
 
 .conetnt{
